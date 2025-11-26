@@ -1,0 +1,10 @@
+# Main navigation links
+main:
+  - title: "About"
+    url: /about/
+  - title: "CV"
+    url: /cv/
+  - title: "Research"
+    url: /research/
+  - title: "GitHub"
+    url: https://github.com/yourusername  # Update with your GitHub username
