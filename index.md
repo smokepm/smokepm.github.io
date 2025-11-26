@@ -1,9 +1,8 @@
 ---
 layout: single
 author_profile: true
+title: "Welcome"
 ---
-
-# Hello and Welcome!
 
 I am an M.A. candidate in Quantitative Economics at California State University, Fullerton, specializing in applied econometrics, causal inference, and health policy analysis. My research combines rigorous econometric methods with modern computational tools to address important policy questions.
 
@@ -26,7 +25,7 @@ Summarized U.S. cannabis policy loopholes and drafted formal policy statement on
 
 Delivering academic support in econometrics, statistical methods, and applied economic reasoning to 100+ students, improving quantitative and analytical skills through instruction, problem-solving guidance, and analytical writing development.
 
-## Published Research
+## Current Research
 
 **Master's Thesis**: *The Impact of Medicaid Expansion on Tobacco Use: A Staggered Difference-in-Difference Analysis*
 
@@ -36,7 +35,7 @@ Using BRFSS data from 2009-2023, I'm analyzing how state Medicaid expansion affe
 
 **Econometric Methods**: Difference-in-differences, Instrumental Variables, Panel Data, Time Series (ARIMA), Causal Inference
 
-**Programming**: Python, R, Stata, SPSS, MySQL, PowerBI, Linux and Git
+**Programming**: Python, R, Stata, SPSS, MySQL
 
 **Machine Learning & NLP**: Scikit-learn, StatsModels, Hugging Face Transformers, LLM development
 
@@ -44,4 +43,4 @@ Using BRFSS data from 2009-2023, I'm analyzing how state Medicaid expansion affe
 
 ---
 
-*Last updated: November 2025*
+*Last updated: November 2024*
